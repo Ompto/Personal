@@ -2,7 +2,6 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Personal Ompto</title>
 </head>
 
 <body>
